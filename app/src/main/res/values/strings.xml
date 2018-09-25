@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="check_result">check result</string>
+
+    <string name="title">Basic computer knowledge test</string>
+
+    <string name="question1">1) PC stands for ?</string>
+    <string name="option1A">Person\'s Computer</string>
+    <string name="option1B">Personal Computer</string>
+    <string name="option1C">Parent\'s Computer</string>
+    <string name="option1D">None</string>
+
+    <string name="question2">2) Where is RAM located ?</string>
+    <string name="option2A">Expansion Board</string>
+    <string name="option2B">External Drive</string>
+    <string name="option2C">On Mother Board</string>
+    <string name="option2D">All</string>
+
+    <string name="question3">3) WWW stands for ?</string>
+    <string name="option3A">Whole World Web</string>
+    <string name="option3B">Wide World Web</string>
+    <string name="option3C">Wide Web of World</string>
+    <string name="option3D">World Wide Web</string>
+
+    <string name="question4">4) What is the use of Wi-Fi ? (Check all that apply)</string>
+    <string name="option4A">To share files between devices</string>
+    <string name="option4B">To browse Internet</string>
+    <string name="option4C">To connect to a Wi-Fi Access Point</string>
+    <string name="option4D">To charge phone</string>
+
+    <string name="question5">5) The brain of the Computer System is?</string>
+    <string name="option5A">ALU</string>
+    <string name="option5B">CPU</string>
+    <string name="option5C">Memory</string>
+    <string name="option5D">None</string>
+
+    <string name="question6">6) Who is the father of Computer?</string>
+    <string name="answerOf6">Charles Babbage</string>
+    <string name="question6AnswerHint">Enter your answer here</string>
+
+    <string name="question7">7) Choose the odd one</string>
+    <string name="option7A">Wi-Fi</string>
+    <string name="option7B">Bluetooth</string>
+    <string name="option7C">Near Field Communication</string>
+    <string name="option7D">Optical Fiber</string>
+
+</resources>

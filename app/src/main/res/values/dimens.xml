@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="MainLinearLayoutPadding">8dp</dimen>
+    <dimen name="TitleTopPadding">10dp</dimen>
+    <dimen name="TitleBottomPadding">15dp</dimen>
+    <dimen name="TitleTextSize">20sp</dimen>
+    <dimen name="CheckResultTextSize">20sp</dimen>
+    <dimen name="QuestionLeftMargin">10dp</dimen>
+    <dimen name="QuestionPaddingBottom">10dp</dimen>
+    <dimen name="QuestionPaddingTop">10dp</dimen>
+    <dimen name="QuestionTextSize">17sp</dimen>
+    <dimen name="CardViewMarginTop">8dp</dimen>
+    <dimen name="EditTextLeftMargin">20dp</dimen>
+    <dimen name="EditTextRightMargin">20dp</dimen>
+</resources>

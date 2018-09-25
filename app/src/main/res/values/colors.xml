@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0277BD</color>
+    <color name="colorPrimaryDark">#01579B</color>
+    <color name="colorAccent">#0288D1</color>
+    <color name="TitleColor">#468499</color>
+    <color name="MainLinearLayoutBG">#f4f2f5</color>
+    <color name="checkResultTextColor">#ffffff</color>
+    <color name="QuestionTextColor">#000</color>
+    <color name="EditTextColorHint">#B2DFDB</color>
+</resources>
